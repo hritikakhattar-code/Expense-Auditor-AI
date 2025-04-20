@@ -1,0 +1,21 @@
+Employee ID,Date,Amount,Category,Description,Receipt Number
+1010,2023-04-01,300,Travel,Flight to conference in London,TRF001
+1021,2023-04-02,1200,Lodging,Hotel stay for client meeting in Paris,LNG002
+1033,2023-04-03,80,Meals,Client lunch at the executive restaurant,MLS003
+1044,2023-04-05,45,Meals,Team breakfast at local café,MLS004
+1055,2023-04-07,200,Transportation,Taxi fare for client site visit,TRP005
+1066,2023-04-10,50,Office Supplies,Stationery and printer paper,OFF006
+1077,2023-04-11,100,Office Supplies,Office supplies - pens, notebooks,OFF007
+1088,2023-04-12,400,Software,Annual license renewal for accounting software,SFT008
+1099,2023-04-13,250,Training,Online course on advanced financial modeling,TRN009
+1100,2023-04-14,150,Client Entertainment,Golf outing with clients,ENT010
+1111,2023-04-15,600,Consulting,Financial consultant fee for business audit,CON011
+1122,2023-04-16,180,Travel,Flight to a business conference in New York,TRF012
+1133,2023-04-18,350,Lodging,Hotel for team offsite workshop,LOD013
+1144,2023-04-19,60,Meals,Team lunch meeting,MLS014
+1155,2023-04-20,90,Transportation,Train ticket for site visit,TRP015
+1166,2023-04-21,30,Office Supplies,Printer ink for the office,OFF016
+1177,2023-04-22,500,Consulting,Legal consultation for new investment project,CON017
+1188,2023-04-23,70,Training,Workshop on financial regulations,TRN018
+1199,2023-04-25,150,Client Entertainment,Client dinner at fine restaurant,ENT019
+1200,2023-04-26,250,Software,Cloud storage subscription for team,SWF020
